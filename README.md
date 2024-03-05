@@ -16,3 +16,6 @@ Divide and Conquer Algorithms
 
 ## Lecture 5
 Transform and Conquer Algorithms
+
+## Lecture 6
+Space, Time and Trade-offs
