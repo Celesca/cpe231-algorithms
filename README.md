@@ -19,3 +19,6 @@ Transform and Conquer Algorithms
 
 ## Lecture 6
 Space, Time and Trade-offs
+
+## Lecture 7
+Dynamic Programming
