@@ -27,5 +27,7 @@ Dynamic Programming
 Greedy Techniques
 - Huffman's Algorithm ✔️
 - Minimum Spanning Tree (MST) ❌
+  - Prim's & Jarnik's Algorithm
+  - Kruskal's Algorithm
 - Single Source Shortest paths ❌
 - Knapsack Problem with Greedy Technique ❌
