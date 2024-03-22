@@ -26,8 +26,11 @@ Dynamic Programming
 ## Lecture 8
 Greedy Techniques
 - Huffman's Algorithm ✔️
-- Minimum Spanning Tree (MST) ❌
-  - Prim's & Jarnik's Algorithm
-  - Kruskal's Algorithm
-- Single Source Shortest paths ❌
-- Knapsack Problem with Greedy Technique ❌
+- Minimum Spanning Tree (MST)  ✔️
+  - Prim's & Jarnik's Algorithm ✔️
+  - Kruskal's Algorithm ✔️
+- Single Source Shortest paths (Dijkstra's Algorithm) ✔️
+- Knapsack Problem with Greedy Technique ✔️
+
+## Lecture 9
+Iterative Improvement
