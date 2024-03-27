@@ -34,3 +34,5 @@ Greedy Techniques
 
 ## Lecture 9
 Iterative Improvement
+- Marriage Problem ❌
+- Bipartite Matching Problem ❌
