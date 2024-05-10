@@ -34,5 +34,11 @@ Greedy Techniques
 
 ## Lecture 9
 Iterative Improvement
-- Marriage Problem ❌
-- Bipartite Matching Problem ❌
+- Marriage Problem ✔️
+- Bipartite Matching Problem ✔️
+
+## Lecture 10 & Miniproject
+- Brute Force Algorithm ✔️
+- Greedy Algorithm ✔️
+- Dynamic Programming ✔️
+- Genetic Algorithm ✔️
